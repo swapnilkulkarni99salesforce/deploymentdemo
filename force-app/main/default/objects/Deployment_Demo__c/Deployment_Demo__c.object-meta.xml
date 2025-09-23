@@ -155,7 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Deployment Demo</label>
     <nameField>
-        <label>Deployment Demo Name</label>
+        <label>Deployment Demo Name Dummy</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Deployment Demos</pluralLabel>
