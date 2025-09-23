@@ -1,4 +1,4 @@
-name: Deploy to sffnoobs environment on push to main
+name: Deploy to Target environment on push to main
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
       - 'force-app/**'
 
 jobs:
-  Deploy-to-sffnoobs-environment:
+  Deploy-to-Target-environment:
       runs-on: ubuntu-latest
       environment: sffnoobs
       steps:
