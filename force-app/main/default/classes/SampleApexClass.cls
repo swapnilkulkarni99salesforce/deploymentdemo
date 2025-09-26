@@ -1,5 +1,5 @@
 public with sharing class SampleApexClass {
     public SampleApexClass() {
-        System.debug('SampleApexClass constructor');
+        System.debug('SampleApexClass constructors');
     }
 }
